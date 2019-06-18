@@ -1,0 +1,3 @@
+Cette image Docker a vocation à être utilisée dans un processus d'intégration continue avec GitLab Ci pour un projet développé avec Ruby on Rails.
+
+Si vous voulez l'utiliser pour autre chose, je ne vous en empêcherai pas.
